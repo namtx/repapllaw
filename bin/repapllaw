@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "repapllaw"
+
+Repapllaw.new.execute
